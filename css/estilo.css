@@ -1,0 +1,38 @@
+.menuCont {
+height: 50px;  position: relative;
+background-color:#729fcf;
+border:1px solid #333333;
+font-size:13px;margin:10px 10px auto 0;
+}
+.menu{
+  margin: 0;position: absolute; top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.titulofondo{
+  background-color:#c7bfe6;display: table;
+  position: relative;  top: 0;  left: 0;
+  height: 100%;  width: 100%;
+  border:1px solid #333333"
+}
+.titulo{
+  color:#632523;height: 200px;
+  display: table-cell;
+  vertical-align: middle;
+}
+.tituloO{
+  border:1px solid #333333;
+  font-size:25px
+}
+.textocentro{
+  background-color:#fac090; height:140px;
+  border:1px solid #333333; font-size:40px;
+}
+.piefondo {
+  height: 60px;  position: relative; background-color:#729fcf;
+  border:1px solid #333333; font-size:13px;margin:10px 10px auto 0;
+}
+.pie {
+  margin: 0;position: absolute; top: 90%; -ms-transform: translateY(-100%);
+  transform: translateY(-100%)
+}
